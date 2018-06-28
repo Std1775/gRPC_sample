@@ -1,1 +1,1 @@
-Basic sample code gRPC.
+Basic sample code with gRPC.
